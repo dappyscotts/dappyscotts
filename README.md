@@ -2,7 +2,7 @@
 - 👀 I’m interested in serverside development
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on  laravel projects
-- 📫 Find me @ scottmuthomi7@gmail.com or dappydehdope on and twitter
+- 📫 Find me @ scottmuthomi7@gmail.com or dappyscotts on twitter
 
 <!---
 dappyscotts/dappyscotts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
