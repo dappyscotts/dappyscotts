@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dappyscotts
+- 👋 Hi, I’m Scott 
 - 👀 I’m interested in serverside development
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on  laravel projects
