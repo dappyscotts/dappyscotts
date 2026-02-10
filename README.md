@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Scott 
-- 👀 I’m interested in serverside development
+- 👀 I’m interested in backend development
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on  laravel projects
 - 📫 Find me @ scottmuthomi7@gmail.com or dappyscotts on X
